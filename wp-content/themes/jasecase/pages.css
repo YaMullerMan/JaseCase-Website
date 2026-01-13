@@ -1,0 +1,83 @@
+/* 
+---------- RESOURCES PAGE ---------- 
+*/
+.blog {
+    padding: 50px 0;
+}
+
+
+
+/* 
+---------- ABOUT PAGE ---------- 
+*/
+
+
+
+
+/* 
+---------- CONTACT PAGE ---------- 
+*/
+.contact .wpforms-field-container {
+    /* display: flex; */
+}
+
+.wpforms-field-label {
+    /* display: none !important; */
+    font-size: 0.9em !important;
+    margin-bottom: 5px !important;
+    font-weight: 600 !important;
+}
+
+.wpforms-field-description {
+    text-align: left;
+}
+
+.wpforms-field input {
+    background-color: var(--light-grey);
+    height: 40px;
+    border: 0;
+    padding: 0 10px;
+}
+
+.wpforms-field textarea {
+    background-color: var(--light-grey);
+    border: 0;
+    padding: 10px;
+}
+
+.input-half {
+    margin: 0 0 0 5px;
+    color: var(--foreground);
+    width: 49%;
+}
+
+.input-full {
+    margin: 0 0 0 5px;
+    color: var(--foreground);
+    width: 100%;
+}
+
+.contact-form-btn {
+    min-width: 125px;
+    text-align: center;
+    padding: 12px;
+    margin: 25px auto 0 auto !important;
+    font-size: 1em !important;
+    display: block;
+}
+
+.contact-form-wrapper .wpforms-container .wpforms-field {
+    padding: 8px 0;
+}
+
+@media screen and (max-width: 860px) {
+    .input-half {
+        width: 47%;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .input-half {
+        width: 100%;
+    }
+}
