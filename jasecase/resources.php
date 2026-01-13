@@ -1,5 +1,5 @@
-<?php get_header();
-/* Name: RESOURCES */ ?>
+<?php get_header(); ?>
+<!-- Template Name: RESOURCES -->
 
 <section>
     <div class="page-width resources">
