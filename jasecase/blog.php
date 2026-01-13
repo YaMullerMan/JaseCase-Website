@@ -1,5 +1,5 @@
-<?php get_header(); ?>
-<!-- Template Name: BLOG -->
+<?php get_header();
+/* BLOG */ ?>
 
 <div class="page-banner"
     style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/images/banner-blog.jpg')">

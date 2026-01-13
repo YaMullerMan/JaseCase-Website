@@ -20,11 +20,11 @@ Version: 1.0.0
     --border-radius: 5px;
 
 
-    --brown: #5e503f;
+    /* --brown: #5e503f;
     --tan: #c6ac8f;
     --offwhite: #eae0d5;
     --bluegrey: #22333b;
-    --black: #0a0908;
+    --black: #0a0908; */
 }
 
 * {
@@ -854,6 +854,7 @@ section:has(.home-about) {
     font-weight: 800;
     text-decoration: underline;
     margin-top: -15px;
+    margin-bottom: 50px;
     color: var(--green);
 }
 

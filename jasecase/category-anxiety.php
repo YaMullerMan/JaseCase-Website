@@ -1,6 +1,6 @@
 <?php
 /**
- * 
+ * Category - Anxiety
  * 
  * This template is for the Anxiety category
  * 
@@ -13,8 +13,6 @@
  */
 
 get_header(); ?>
-
-<!-- Template Name: Category - Anxiety -->
 
 <?php
         // Get current category info

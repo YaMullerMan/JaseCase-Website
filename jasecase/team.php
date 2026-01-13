@@ -1,5 +1,5 @@
-<?php get_header(); ?>
-<!-- Template Name: TEAM  -->
+<?php get_header();
+/* TEAM */ ?>
 
 <style>
 main {
